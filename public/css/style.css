@@ -1,0 +1,26 @@
+.toggle {
+    display: flex;
+}
+
+.big {
+    padding: 5px;
+}
+
+/* .social {
+    margin-left: auto;
+    padding: 5px;
+} */
+
+.heder {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+img.photo_size {
+    width:15rem;
+    height:12rem;
+}
+
+.h1 {
+    margin:0 auto;
+}
