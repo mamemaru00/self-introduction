@@ -24,3 +24,7 @@ img.photo_size {
 .h1 {
     margin:0 auto;
 }
+
+.hobby {
+    float:left;
+}

@@ -42,7 +42,26 @@
         </div>
         <div class="self">
             <h1 style="text-align: center;">趣味</h1>
-            <div class="hobby">読書</div>
+            <div class="hobby">
+                <div class="hobby_1">
+                    <p>読書</p>
+                    <div class="hobby_content">
+                        <p>嫌われる勇気</p>
+                    </div>
+                </div>
+                <div class="hobby_2">
+                    <p>大学勉強</p>
+                    <div class="hobby_content">
+                        <p>嫌現役通信制大学生で勉強中</p>
+                    </div>
+                </div>
+                <div class="hobby_3">
+                    <p>映画</p>
+                    <div class="hobby_content">
+                        <p>マーベル</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="self">
             <h1 style="text-align: center;">経歴</h1>
@@ -56,7 +75,7 @@
         </div>
         <div class="self">
             <h1 style="text-align: center;">成果物</h1>
-            
+
         </div>
     </div>
 </body>
